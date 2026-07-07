@@ -82,5 +82,5 @@ Python, pandas, NumPy, scikit-learn, matplotlib, anomaly detection, operations a
 ## Author
 
 Aamer Javed  
-GitHub: https://github.com/aamerjavedomds  
+GitHub: https://github.com/aamer-javed
 Kaggle: https://www.kaggle.com/aamerjavedmce
