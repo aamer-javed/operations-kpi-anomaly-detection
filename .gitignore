@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Local data
+data/raw/
+data/private/
+
+# OS
+.DS_Store
+Thumbs.db
